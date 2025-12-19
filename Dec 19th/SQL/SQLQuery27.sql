@@ -1,0 +1,4 @@
+CREATE DATABASE TwoTableDB2;
+GO
+USE TwoTableDB2;
+GO
