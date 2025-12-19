@@ -1,0 +1,3 @@
+ALTER DATABASE EnterpriseDB
+MODIFY NAME = CorpDB;
+GO
